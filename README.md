@@ -1,4 +1,4 @@
-print("Break");
+2print("Break");
 local v0 = require(game:GetService("ReplicatedStorage").Notification);
 v0.new("<Color=Cyan>Welcome Thauan Hub<Color=/>"):Display();
 wait(0.5);
@@ -12853,20 +12853,3 @@ task.spawn(function()
         end
     end
 end)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
